@@ -20,7 +20,7 @@ It includes navigation between pages, editable records, and a basic login system
 
 #### 🔐 Login
 
-* Simple login form with predefined username and password (`JavaLab`, `123456`)
+* Simple login form with predefined username and password (`Admin`, `123456`)
 * On successful login, user is redirected to the **Dashboard**
 
 ---
