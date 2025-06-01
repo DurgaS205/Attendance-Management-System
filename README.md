@@ -128,3 +128,5 @@ java LOGIN
 * Beginners learning Java Swing
 * Mini projects for college
 * Practice for UI design and navigation
+---
+This is the mini project for my second year engineering undergraduate programme :)
