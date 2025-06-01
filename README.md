@@ -105,7 +105,7 @@ It includes navigation between pages, editable records, and a basic login system
 ├── ATTENDANCE.java
 ├── TEACHERPROFILE.java
 ├── STUDENTMARKS.java
-├── img2.png (background image for dashboard)
+├── img1.png (background image for loginpage)
 ```
 
 ---
@@ -113,7 +113,7 @@ It includes navigation between pages, editable records, and a basic login system
 ### 🎯 How to Run
 
 1. Clone the repository
-2. Make sure `img2.png` is in the same folder as your `.java` files
+2. Make sure `img1.png` is in the same folder as your `.java` files
 3. Compile and run `LOGIN.java`
 
 ```bash
